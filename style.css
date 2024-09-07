@@ -1,0 +1,32 @@
+
+/*style for the whole body*/
+body{
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 20px;
+    padding: 20px;
+
+}
+
+h1{
+    text-align: center;
+    color: #c0392b;
+}
+
+h2{
+    padding-bottom: 5px;
+    color:  #2980b9;
+    border-bottom:solid;
+}
+
+p{
+    font-size: 1.1em;
+}
+
+/*style for ordered list and unordered list*/
+ul,ol{
+    margin: 15px;
+    padding-left: 20px;
+}
